@@ -15,10 +15,10 @@ const Home = () => {
                 <span>Hello.</span>
               </h6>
               <h1>
-                We Have <br />
-                Design
+                I am Jalal Uddin <br />
+                Mohammad
                 <br />
-                Experience
+                Akbar
               </h1>
               <p>
                 I design and develop services for customers of all sizes,
